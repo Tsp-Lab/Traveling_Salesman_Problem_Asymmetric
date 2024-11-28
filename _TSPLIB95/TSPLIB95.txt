@@ -1,0 +1,8 @@
+- Website
+http://comopt.ifi.uni-heidelberg.de/software/TSPLIB95/index.html
+
+- ATSP data
+http://comopt.ifi.uni-heidelberg.de/software/TSPLIB95/atsp/
+
+- Best known solutions for asymmetric TSPs
+http://comopt.ifi.uni-heidelberg.de/software/TSPLIB95/ATSP.html
